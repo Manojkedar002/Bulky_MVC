@@ -1,0 +1,11 @@
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\manoj\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
